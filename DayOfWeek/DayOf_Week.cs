@@ -8,6 +8,7 @@ namespace DayOfWeek
 {
     public class DayOf_Week
     {
+
         public void DayOfWeekMethod()
         {
             Console.WriteLine("Please enter the Date :");

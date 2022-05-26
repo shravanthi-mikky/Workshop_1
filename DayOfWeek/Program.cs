@@ -4,3 +4,4 @@ using DayOfWeek;
 Console.WriteLine("Hello, World!");
 DayOf_Week c1 = new();
 c1.DayOfWeekMethod();
+calculateMonthlyPayment.calculate();
